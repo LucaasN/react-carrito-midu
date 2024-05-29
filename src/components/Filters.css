@@ -1,0 +1,12 @@
+.filters {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  
+  .filters > div {
+    margin-bottom: 10px;
+  }
